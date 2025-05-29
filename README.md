@@ -194,7 +194,7 @@ public interface MoveStrategy {
 🏅 Project Showcase
 This project demonstrates:
 
-Advanced Java Programming: Object-oriented design with multiple design patterns
-Software Architecture: Clean, maintainable, and extensible codebase
-Problem Solving: Scalable algorithms and efficient data structures
-Code Quality: Professional-grade implementation suitable for production environments
+- Advanced Java Programming: Object-oriented design with multiple design patterns
+- Software Architecture: Clean, maintainable, and extensible codebase
+- Problem Solving: Scalable algorithms and efficient data structures
+- Code Quality: Professional-grade implementation suitable for production environments
